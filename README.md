@@ -1,8 +1,8 @@
 JMeter
 ======
 
-JMeter - WebSocket Sampler
+JMeter - WebSocket/SocketIO Sampler
 
 Compiled binary can be downloaded from the Releases.
 
-Please have a look at the [Wiki pages](https://github.com/maciejzaleski/JMeter-WebSocketSampler/wiki) for instructions on how to install the plug-in.
+Place jar file to jmeter/ext/lib folder to use this plugin
